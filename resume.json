@@ -1,87 +1,57 @@
 {
 	"basics": {
-		"name": "---Enter Your Name---",
+		"name": "Vatsal bhardwaj",
 		"label": "Student",
-		"picture": "---Enter Image URL----",
-		"email": "---Enter Email ID---",
-		"phone": "---Enter Mobile Number---",
-		"website": "---Enter Link of website(if any) ---",
-		"summary": "---Tell Something about yourself ---",
+		"picture": "https://media-exp1.licdn.com/dms/image/C4D03AQFwg1_7ZuCmJw/profile-displayphoto-shrink_800_800/0/1606062763925?e=1632960000&v=beta&t=xRfZBfFxo1DX9OqijAUNrTGXj6Vbm8G9RRLM00bpLBo",
+		"email": "2020kucp1017@iiitkota.ac.in",
+		"phone": "9352427848",
+		"summary": "Techlover",
 		"location": {
-			"address": "---",
-			"postalCode": "---",
-			"city": "---",
+			"city": "jaipur",
 			"countryCode": "India",
-			"region": "---State Name---"
+			"region": "Rajasthan"
 		},
 		"profiles": [{
 				"network": "Twitter",
-				"username": "handle",
-				"url": "https://www.twitter.com/<handle>"
+				"username": "vatsalbhardwa12",
+				"url": "https://twitter.com/vatsalbhardwa12"
 			},
 			{
 				"network": "Github",
-				"username": "handle",
-				"url": "https://www.github.com/<handle>/"
+				"username": "vatsalbhardwaj",
+				"url": "https://github.com/vatsalbhardwaj"
 			},
 			{
 				"network": "linkedin",
-				"username": "username",
-				"url": "https://www.linkedin.com/in/<username>/"
+				"username": "Vatsal Bhardwaj",
+				"url": "https://www.linkedin.com/in/vatsal-bhardwaj-08b405200/"
 			},
 			{
 				"network": "Instagram",
-				"username": "handle",
-				"url": "https://instagram.com/<handle>"
+				"username": "vatsal__bhardwaj",
+				"url": "https://www.instagram.com/vatsal__bhardwaj/"
 			}
 		]
 	},
-	"work": [{
-		"company": "---",
-		"position": "----",
-		"website": "----",
-		"startDate": "2020-08-04//Take care about Date Format",
-		"endDate": "Date // ",
-		"summary": "---Tell me something About Org. --- ",
-		"highlights": ["Add Highlights", "Your work details"]
-	}],
-	"volunteer": [{
-		"organization": "---Name Org ---",
-		"position": "---Add ---",
-		"website": "---",
-		"startDate": "2020-01-01 // Note Date Format",
-		"endDate": "---",
-		"summary": "Description...",
-		"highlights": []
-	}],
+	
+
 	"education": [{
 		"institution": "Indian Institute of Information technology,kota",
 		"area": "Engineering",
 		"studyType": "Bachelor (hons)",
-		"startDate": "2018-04-08 //Date",
+		"startDate": "2020-12-02 //Date",
 		"endDate": "----",
-		"gpa": "---Add your CGPA ---",
 		"courses": [
 			"Computer Science & Engineering"
 		]
 	}],
-	"awards": [{
-		"title": "--Title---",
-		"awarder": "---Receiverd By ---",
-		"date": "2020-08-21//Date"
-	}],
-	"publications": [{
-		"title": "---Enter Title---",
-		"details": "---Enter Details---",
-		"link": "---github/website link to show your work---"
-	}],
 	"skills": [{
-		"level": "Master",
-		"keywords": ["HTML", "CSS", "Javascript", "React", "C/C++", "Add more"]
+		"level": "Beginner",
+		"keywords": ["HTML", "CSS", "Javascript", "React", "C/C++", "python"]
 	}],
 	"interests": [{
 		"name": "Sports",
-		"keywords": ["Chess", "Badminton"]
+		"keywords": ["Football", "Kabbaddi"]
 	}],
 	"references": []
 }
